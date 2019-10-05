@@ -1,0 +1,4 @@
+/Users/Rachel/Exercism/cpp/grade-school/build/CMakeFiles/rebuild_cache.dir
+/Users/Rachel/Exercism/cpp/grade-school/build/CMakeFiles/edit_cache.dir
+/Users/Rachel/Exercism/cpp/grade-school/build/CMakeFiles/test_grade-school.dir
+/Users/Rachel/Exercism/cpp/grade-school/build/CMakeFiles/grade-school.dir
