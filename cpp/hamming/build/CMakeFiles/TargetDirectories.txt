@@ -1,0 +1,4 @@
+/Users/Rachel/Exercism/cpp/hamming/build/CMakeFiles/rebuild_cache.dir
+/Users/Rachel/Exercism/cpp/hamming/build/CMakeFiles/edit_cache.dir
+/Users/Rachel/Exercism/cpp/hamming/build/CMakeFiles/test_hamming.dir
+/Users/Rachel/Exercism/cpp/hamming/build/CMakeFiles/hamming.dir
