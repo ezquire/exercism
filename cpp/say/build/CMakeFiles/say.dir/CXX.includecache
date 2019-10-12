@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Rachel/Exercism/cpp/say/say.cpp
+say.h
+/Users/Rachel/Exercism/cpp/say/say.h
+iostream
+-
+vector
+-
+
+/Users/Rachel/Exercism/cpp/say/say.h
+string
+-
+
