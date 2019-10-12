@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Rachel/Exercism/cpp/nth-prime/nth_prime.cpp
+nth_prime.h
+/Users/Rachel/Exercism/cpp/nth-prime/nth_prime.h
+vector
+-
+iostream
+-
+cmath
+-
+
+/Users/Rachel/Exercism/cpp/nth-prime/nth_prime.h
+
